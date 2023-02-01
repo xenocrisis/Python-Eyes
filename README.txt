@@ -1,3 +1,2 @@
 IA tracking face, hands, etc...
-
-No tiene utilidad practica, lo hice por aburrimiento y aprender.
+Just bored, learning.
