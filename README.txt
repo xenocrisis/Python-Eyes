@@ -1,2 +1,2 @@
-IA tracking face, hands, etc...
-Just bored, learning.
+# Python eyes 👀
+Simple face tracking program with Python, also can detect hands.
