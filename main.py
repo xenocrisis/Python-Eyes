@@ -53,6 +53,6 @@ while True:
         for handLms in results.multi_hand_landmarks:
             mpDraw.draw_landmarks(frame, handLms, mpHands.HAND_CONNECTIONS)
 
-    cv2.imshow("Face detect IA - by @drunkarp @xenonxss", frame)
+    cv2.imshow("Face detect IA - by @HotAndLonely", frame)
     if cv2.waitKey(1) == 27:
         break
